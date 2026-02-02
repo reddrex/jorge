@@ -14,7 +14,7 @@ title: "Projects"
   <span class="tag">Substack</span>
   <span class="tag">Dissemination</span>
 </div>
-<p><a href="https://github.com/reddrex/lingcomp_QA">GitHub Pages</a></p>
+<p><a href="https://circuigramas.substack.com/">Substack</a></p>
 </div>
 
 </div>
