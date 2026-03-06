@@ -28,7 +28,7 @@ title: "Projects"
   <span class="tag">Exam</span>
   <span class="tag">Game</span>
 </div>
-<p><a href="reddrex.github.io/burocrash/">Substack</a></p>
+<p><a href="reddrex.github.io/burocrash/">Web game</a></p>
 </div>
 
 </div>
